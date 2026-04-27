@@ -6,7 +6,7 @@
 	},
 	"id": "axiom.butok",
 	"name": "ButOk (Comment)",
-	"tags": ["joke", "enhancement", "interface", "social"],
+	"tags": ["joke", "enhancement", "interface"],
 	"version": "v1.0.0",
 	"developer": "Axiom",
 	"description": "adds 'but ok' to any comment u upload",
