@@ -1,0 +1,16 @@
+{
+	"geode": "5.6.1",
+	"gd": {
+		"win": "2.2081",
+		"mac": "2.2081"
+	},
+	"id": "axiom.butok",
+	"name": "ButOk (Comment)",
+	"tags": ["joke", "enhancement", "interface", "social"],
+	"version": "v1.0.0",
+	"developer": "Axiom",
+	"description": "adds 'but ok' to any comment u upload",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}
